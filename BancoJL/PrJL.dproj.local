@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/08/27 13:06:19.000.602,=C:\Users\LRSilva25\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/27 13:16:28.000.275,C:\Banco JL\uJL.pas=C:\Users\LRSilva25\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/27 13:16:28.000.275,C:\Banco JL\uJL.dfm=C:\Users\LRSilva25\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018/08/27 13:16:35.000.892,C:\Banco JL\PrJL.dproj=C:\Users\LRSilva25\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2018/08/27 13:16:57.000.639,=C:\Banco JL\Unit2.pas</Transaction>
+    <Transaction>2018/08/27 13:42:10.000.550,=C:\Users\jcbmugnol\Downloads\Banco JL\Unit1.pas</Transaction>
+    <Transaction>2018/08/27 13:42:18.000.573,C:\Users\jcbmugnol\Downloads\Banco JL\Unit1.pas=C:\Users\jcbmugnol\Downloads\Banco JL\Conexao.pas</Transaction>
+    <Transaction>2018/09/03 13:19:58.000.205,=C:\Users\jcbmugnol\Downloads\BancoJL_0827\Unit1.pas</Transaction>
+    <Transaction>2018/09/03 13:20:11.000.314,C:\Users\jcbmugnol\Downloads\BancoJL_0827\uGerente.dfm=C:\Users\jcbmugnol\Downloads\BancoJL_0827\Unit1.dfm</Transaction>
+    <Transaction>2018/09/03 13:20:11.000.314,C:\Users\jcbmugnol\Downloads\BancoJL_0827\uGerente.pas=C:\Users\jcbmugnol\Downloads\BancoJL_0827\Unit1.pas</Transaction>
+    <Transaction>2018/09/24 13:42:28.000.279,=C:\Users\jcbmugnol\Downloads\BancoJL_0917\Unit1.pas</Transaction>
+    <Transaction>2018/09/24 13:42:46.000.937,C:\Users\jcbmugnol\Downloads\BancoJL_0917\Unit1.pas=C:\Users\jcbmugnol\Downloads\BancoJL_0917\uATM.pas</Transaction>
+    <Transaction>2018/09/24 13:42:46.000.937,C:\Users\jcbmugnol\Downloads\BancoJL_0917\Unit1.dfm=C:\Users\jcbmugnol\Downloads\BancoJL_0917\uATM.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
